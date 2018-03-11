@@ -1,5 +1,5 @@
 img {
-    width: 600px;
+    width: 600;
 }
 body {
     text-align: center;
@@ -8,15 +8,18 @@ body {
 }
 h1 {
     color: magenta;
-    font-size: 40;
+    font-size: 80;
     
 
 }
 p {
     color: green;
     font-family: impact;
-    font-size: 27;
+    font-size: 40;
     
+}
+body, html {
+    height: 100%;
 }
 
 
