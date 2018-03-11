@@ -8,13 +8,14 @@ body {
 }
 h1 {
     color: magenta;
+    font-size: 40;
     
 
 }
 p {
     color: green;
     font-family: impact;
-    font-size: 19;
+    font-size: 27;
     
 }
 
