@@ -1,6 +1,5 @@
 img {
-    width: 700px;
-    text-align: center;
+    width: 600px;
 }
 body {
     text-align: center;
@@ -9,14 +8,14 @@ body {
 }
 h1 {
     color: magenta;
-    text-align: center;
+    
 
 }
 p {
     color: green;
     font-family: impact;
     font-size: 19;
-    text-align: center;
+    
 }
 
 
