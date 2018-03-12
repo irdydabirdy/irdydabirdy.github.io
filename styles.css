@@ -4,10 +4,11 @@ img {
 body {
     text-align: center;
     font-family: "Comic Sans Ms";
-    background: aqua;
+    background: white
+;
 }
 h1 {
-    color: magenta;
+    color: blue;
     font-size: 80;
     
 
@@ -21,6 +22,5 @@ p {
 body, html {
     height: 100%;
 }
-
 
 
