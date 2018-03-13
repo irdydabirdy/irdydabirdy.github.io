@@ -113,7 +113,6 @@
     this.die = function() {
       this.element.parentNode.removeChild(this.element);
     }
-    
   }
   
   /**
