@@ -1,27 +1,42 @@
-img {
-    width: 600;
-}
+
+
 body {
     text-align: center;
     font-family: "Comic Sans Ms";
-    background: white
+    background-repeat: repeat-x;
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX23310840.jpg");
 ;
 }
 h1 {
-    color: blue;
+    color: cyan;
     font-size: 80;
-    
-
+    background-color: teal;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 900;
 }
 p {
-    color: blue;
+    color: cyan;
     font-family: impact;
     font-size: 40;
+    background-color: teal;
+    font-style: normal;
     
 }
 body, html {
     height: 100%;
 }
-
+img {
+    width: 200px;
+}
+h2 {
+    font-size: 50;
+    color: darkblue;
+}
+h3 {
+    font-family: sans-serif;
+    color: darkblue;
+    font-style: italic;
+}
 
 
