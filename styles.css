@@ -3,9 +3,7 @@
 body {
     text-align: center;
     font-family: "Comic Sans Ms";
-    background-repeat: repeat-x;
-    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX23310840.jpg");
-;
+    background-image: url("http://ak3.picdn.net/shutterstock/videos/25102643/thumb/1.jpg");
 }
 h1 {
     color: cyan;
@@ -38,5 +36,25 @@ h3 {
     color: darkblue;
     font-style: italic;
 }
+.fa {
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none ;
+}
+.fa-instagram {
+    color: white;
+}
+.fa-youtube {
+    color: white;
+    background: red;
+    border-radius: 20%;
+}
+.fa-github {
+    color: black;
 
+}
+#wrapper {
+    width: 100%;
+}
 
