@@ -3,11 +3,12 @@
 body {
     text-align: center;
     font-family: "Comic Sans Ms";
-    background-image: url("http://ak3.picdn.net/shutterstock/videos/25102643/thumb/1.jpg");
+    
+    
 }
 h1 {
     color: cyan;
-    font-size: 80;
+    font-size: 200;
     background-color: teal;
     font-family: cursive;
     font-style: oblique;
@@ -16,19 +17,23 @@ h1 {
 p {
     color: cyan;
     font-family: impact;
-    font-size: 40;
+    font-size: 100;
     background-color: teal;
     font-style: normal;
     
 }
 body, html {
     height: 100%;
+    width: 100%;
+    background: no-repeat;
+    background-image: url("http://ak3.picdn.net/shutterstock/videos/25102643/thumb/1.jpg");
+    
 }
 img {
     width: 200px;
 }
 h2 {
-    font-size: 50;
+    font-size: 100;
     color: darkblue;
 }
 h3 {
